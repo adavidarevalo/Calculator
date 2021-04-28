@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adavidarevalo/Calculator.git"
+  },
+  "keywords": [
+    "Calculator"
+  ],
+  "author": "David Arevalo <davidarevaloc20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adavidarevalo/Calculator/issues"
+  },
+  "homepage": "https://github.com/adavidarevalo/Calculator#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
