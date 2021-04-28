@@ -26,8 +26,8 @@
 
 
     function addNumber(num) {
-      num1 = num1.toString() + num.toString();
-      newDisplay();
+        num1 = num1.toString() + num.toString();
+        newDisplay();
     }
     function selecOperation(op) {
       if (op === "") return;

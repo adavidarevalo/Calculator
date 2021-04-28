@@ -28,9 +28,13 @@ body header {
   color: #fff;
   margin: 20px;
 }
+body header h1 {
+  text-align: center;
+}
 main {
   width: 50vw;
   max-width: 400px;
+  min-width: 300px;
   height: auto;
   background: rgba(255, 255, 255, 0.465);
   border-radius: 30px;
@@ -49,8 +53,9 @@ main input {
   border-radius: 10px;
   font-size: 1.5rem;
   padding: 5px;
-  padding-left: 20px;
+  padding-right: 20px;
   cursor: pointer;
+  text-align: right;
 }
 main section {
   padding-top: 25px;
